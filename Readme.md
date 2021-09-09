@@ -24,4 +24,4 @@ If you find a ***new bot***, fell free to report it in issues to update the list
 | #3 | DoesHotter | Joins to server with a huge amount of copies. It even can join on enemy side while on yours. | <span style="color:lightcoral">**Active**</span> | [DoesHotter.md](BotList/DoesHotter.md) |
 | #4 | OMEGATRONIC | Joins to server and kills players with aimbot. Mostly comes with `voice chat` spam. Picks sniper or heavy. | <span style="color:lightcoral">**Active**</span> | [OMEGATRONIC.md](BotList/OMEGATRONIC.md) |
 
-If you want to *contribute*, contact me on [Telegram](https://t.me/mkikets), [Email](mailto:mykola.kikets@gmail.com) or here by creating [Contributing] issue
+If you want to *contribute*, contact me on [Telegram](https://t.me/mkikets) or here by creating [Contributing] issue
