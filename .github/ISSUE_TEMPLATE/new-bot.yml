@@ -1,6 +1,6 @@
 name: New Bot
 description: You founded new bot which is not in the list? Feel free to inform everybody.
-title: "[NewBot]"
+title: "[NewBot]: <botname>"
 labels: new bot
 body:
   - type: markdown
@@ -10,7 +10,7 @@ body:
         
         Please write down following information in order to analize it.
   - type: input
-    id: contact
+    id: botname
     attributes:
       label: Bot Name
       description: How bot shows himself in the game. (If this bot has no name or `void` name enter `[void]`)
