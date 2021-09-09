@@ -19,7 +19,7 @@ If you find a ***new bot***, fell free to report it in issues to update the list
 
 | Bot # | Bot name | Behavior | Status | More |
 |:-:|:-:|-|:-:|:-:| 
-| #1 | Name-stealer | Joins to server with the same name as a player. Right at join tries to send a kick vote. During gameplay using: <ul><li>Aimbot</li><li>(optional) [Noise Maker - TF Birthday](https://wiki.teamfortress.com/wiki/Noise_Maker#Team_Fortress_Birthday)</li><li>Same loadout as player (except sniper rifle)</li></ul> | <span style="color:gold">**Solvable**</span> | [Name-Stealer.md](BotList/Name-Stealer.md) |
+| #1 | *Name-stealer* | Joins to server with the same name as a player. Right at join tries to send a kick vote. During gameplay using: <ul><li>Aimbot</li><li>(optional) [Noise Maker - TF Birthday](https://wiki.teamfortress.com/wiki/Noise_Maker#Team_Fortress_Birthday)</li><li>Same loadout as player (except sniper rifle)</li></ul> | <span style="color:gold">**Solvable**</span> | [Name-Stealer.md](BotList/Name-Stealer.md) |
 | #2 | royalhack.net BOT | Joins to server and kills players with aimbot | <span style="color:gold">**Solvable**</span> | [royalhack.netBOT.md](BotList/royalhack.netBOT.md) |
 | #3 | DoesHotter | Joins to server with a huge amount of copies. It even can join on enemy side while on yours. | <span style="color:lightcoral">**Active**</span> | [DoesHotter.md](BotList/DoesHotter.md) |
 | #4 | OMEGATRONIC | Joins to server and kills players with aimbot. Mostly comes with `voice chat` spam. Picks sniper or heavy. | <span style="color:lightcoral">**Active**</span> | [OMEGATRONIC.md](BotList/OMEGATRONIC.md) |
