@@ -21,10 +21,10 @@ body:
     id: purpose
     attributes:
       label: Purpose
-      description: whot do you need to contribute here?
+      description: What do you need to contribute here?
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: timetable
     attributes:
       label: Timetable
