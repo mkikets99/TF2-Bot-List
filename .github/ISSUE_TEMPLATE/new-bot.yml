@@ -44,6 +44,6 @@ body:
         3.
         ...
       render: markdown,
-      validations:
-        required: true
+    validations:
+      required: true
 
