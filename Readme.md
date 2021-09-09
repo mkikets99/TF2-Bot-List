@@ -14,7 +14,7 @@ If you find a ***new bot***, fell free to report it in issues to update the list
 | <span style="color:firebrick">**Dangerous**</span> | **Bot** is ***very agressive*** an valve servers. *Do not come close* |
 | <span style="color:gold">**Solvable**</span> or <span style="color:goldenrod">"**In process**"</span> | There is ***Possible solution*** of solving the bot problem in game. *Try out the set of solution* and inform the results. |
 
-###Bot list
+### Bot list
 
 | Bot # | Bot name | Behavior | Status | More | 
 |:-:|-|-|-|-| 
