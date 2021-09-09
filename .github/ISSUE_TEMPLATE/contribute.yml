@@ -1,0 +1,33 @@
+name: Contributing
+description: You want to help with this project by analising all bot information? Feel free to sign.
+title: "[Contributing]: <your-nickname>"
+labels: contributing
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this info report!
+        
+        Please write down following information in order to know more about you.
+  - type: input
+    id: username
+    attributes:
+      label: User Name
+      description: How do you need us to name you?
+      placeholder: ex. Expert999
+    validations:
+      required: true
+  - type: input
+    id: purpose
+    attributes:
+      label: Purpose
+      description: whot do you need to contribute here?
+    validations:
+      required: true
+  - type: textarea
+    id: timetable
+    attributes:
+      label: Timetable
+      description: Can you inform your timetable?
+      render: markdown
+
