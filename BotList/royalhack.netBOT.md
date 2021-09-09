@@ -1,0 +1,8 @@
+**Bot name:** royalhack.net BOT
+**Birth date:** <span style="color:firebrick">**Unknown**</span>
+**Appearence (map):** *Most* of ***casual*** maps
+**Behavior:** Joins to server, ruining the gameplay. Using aimbot. Uses stock loadout.
+
+**Status:**<span style="color:gold">**Solvable**</span>
+**Posible solution:** Most of the time bot gives up after the first kick. Maximum recorder `retry`-comand call is 1.
+**Posible problems:** <span style="color:firebrick">**Unknown**</span>
