@@ -37,7 +37,8 @@ body:
     id: behavior
     attributes:
       label: Bot behavior
-      description:Is there something new in actions of the bot? Or something is wrong in out description? Name all things that you noticed.
+      description: |
+        Is there something new in actions of the bot? Or something is wrong in out description? Name all things that you noticed.
       value: |
         1.
         2.
