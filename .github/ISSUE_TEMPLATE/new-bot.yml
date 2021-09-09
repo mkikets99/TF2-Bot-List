@@ -17,4 +17,19 @@ body:
       placeholder: ex. Name-Stealer
     validations:
       required: true
+  - type: dropdown
+    id: gamemode
+    attributes:
+      label: In witch gamemode you found it?
+      multiple: true
+      options:
+        - Offence/Defence
+        - Capture the flag
+        - Control points
+        - King of the hill
+        - Payload
+        - Payload race
+        - Others (Medieval, invation, etc.)
+        - MANN Power
+        - Pass time
 
