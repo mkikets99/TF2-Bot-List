@@ -1,17 +1,49 @@
 name: New info
 description: Founded some new info about existing bot? Inform us to update info.
-title: "[NewInfo]: <title>"
+title: "[NewInfo]: <botname>"
 labels: contribution, info
 body:
   - type: markdown
     attributes:
       value: |
         Thanks for taking the time to fill out this info report!
+        
+        Please write down following information in order to analize it.
   - type: input
-    id: contact
+    id: botname
     attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      label: Bot Name
+      description: What is the name of the bot? (This must be listed in our list)
+      placeholder: ex. Name-Stealer, DoesHotter
+    validations:
+      required: true
+  - type: dropdown
+    id: gamemode
+    attributes:
+      label: Gamemode
+      description: In witch gamemode you found it?
+      multiple: true
+      options:
+        - Offence/Defence
+        - Capture the flag
+        - Control points
+        - King of the hill
+        - Payload
+        - Payload race
+        - Others (Medieval, invation, etc.)
+        - MANN Power
+        - Pass time
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Bot behavior
+      description:Is there something new in actions of the bot? Or something is wrong in out description? Name all things that you noticed.
+      value: |
+        1.
+        2.
+        3.
+        ...
+      render: markdown,
     validations:
       required: false
+

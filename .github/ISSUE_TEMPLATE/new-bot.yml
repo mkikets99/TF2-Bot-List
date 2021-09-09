@@ -53,7 +53,7 @@ body:
       description: | 
         Did you managed to somehow beat the bot?
         If yes, tell us how you do that, so everyone can do the same.
-        If no, tell what was the main issue of solving the problem (`team pressing f2` is not hte answer here)
+        If no, tell what was the main issue of solving the problem (`team pressing f2` is not the answer here)
       value: |
         ...
       render: markdown,
