@@ -29,5 +29,7 @@ body:
     attributes:
       label: Timetable
       description: Can you inform your timetable?
+      value: |
+        ...
       render: markdown
 
