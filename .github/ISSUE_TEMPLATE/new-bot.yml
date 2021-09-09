@@ -1,0 +1,20 @@
+name: New Bot
+about: You founded new bot which is not in the list? Feel free to inform everybody.
+title: "[NewBot]"
+labels: new bot
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this info report!
+        
+        Please write down following information in order to analize it.
+  - type: input
+    id: contact
+    attributes:
+      label: Bot Name
+      description: How bot shows himself in the game. (If this bot has no name or `void` name enter `[void]`)
+      placeholder: ex. Name-Stealer
+    validations:
+      required: true
+
