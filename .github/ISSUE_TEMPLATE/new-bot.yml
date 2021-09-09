@@ -32,4 +32,17 @@ body:
         - Others (Medieval, invation, etc.)
         - MANN Power
         - Pass time
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Bot behavior
+      description: What was a behavior of the bot? Name all things that you noticed.
+      value: |
+        1.
+        2.
+        3.
+        ...
+      render: markdown,
+      validations:
+        required: true
 
