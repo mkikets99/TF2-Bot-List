@@ -2,7 +2,6 @@ name: New info
 description: Founded some new info about existing bot? Inform us to update info.
 title: "[NewInfo]: <title>"
 labels: contribution, info
-assignees: ''
 body:
   - type: markdown
     attributes:
