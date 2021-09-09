@@ -20,7 +20,8 @@ body:
   - type: dropdown
     id: gamemode
     attributes:
-      label: In witch gamemode you found it?
+      label: Gamemode
+      description: In witch gamemode you found it?
       multiple: true
       options:
         - Offence/Defence
