@@ -1,0 +1,49 @@
+name: New Cheat Info
+description: You have some new info about the cheat in the list? Feel free to inform us.
+title: "[NewCheatInfo]: <cheatname>"
+labels: 
+  - contribution
+  - info
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this info report!
+        
+        Please write down following information in order to analize it.
+  - type: input
+    id: cheatname
+    attributes:
+      label: Cheat Name
+      description: What is the name of the cheat.
+      placeholder: ex. LMAOBOX
+    validations:
+      required: true
+  - type: textarea
+    id: update
+    attributes:
+      label: Update info
+      description: Enter all things that is wrong on urs side or needs to be added or changed.
+      value: |
+        1.
+        2.
+        3.
+        ...
+      render: markdown,
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Update Reason
+      description: | 
+        Please write down all evidence of `Update info` section in order to prove that your update information is right
+      value: |
+        1.
+        2.
+        3.
+        ...
+      render: markdown
+    validations:
+      required: true
+

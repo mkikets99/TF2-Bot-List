@@ -1,0 +1,70 @@
+name: New Cheater
+description: You founded new cheater which is not in the list? Feel free to inform everybody.
+title: "[NewCheater]: <cheatername>"
+labels: new cheater
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this info report!
+        
+        Please write down following information in order to analize it.
+  - type: input
+    id: cheatername
+    attributes:
+      label: Cheater Name
+      description: How Cheater shows himself in the game. (If this bot has no name or `void` name enter `[void]`)
+      placeholder: ex. Exterminator889
+    validations:
+      required: true
+  - type: dropdown
+    id: gamemode
+    attributes:
+      label: Gamemode
+      description: In witch gamemode you found it?
+      multiple: true
+      options:
+        - Offence/Defence
+        - Capture the flag
+        - Control points
+        - King of the hill
+        - Payload
+        - Payload race
+        - Others (Medieval, invation, etc.)
+        - MANN Power
+        - Pass time
+        - MANN vs Machine
+    validations:
+      required: true
+  - type: input
+    id: map
+    attributes:
+      label: Map
+      description: On which map you stumble the cheater?
+      placeholder: ex. ctf_2fort
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Cheater behavior
+      description: What was a behavior of the cheater? Name all things that you noticed, so we can detect which cheat is player using.
+      value: |
+        1.
+        2.
+        3.
+        ...
+      render: markdown,
+    validations:
+      required: true
+  - type: input
+    id: steamprofile
+    attributes:
+      label: Steam Profile
+      description: | 
+        Enter the profile url, to chec the information about plyer.
+        If player profile is closed, most probably we will add him to list.
+        If player profile is opened, we will check time played on TF2 to differ `the cheater` from `the tryharder`
+    validations:
+      required: true
+

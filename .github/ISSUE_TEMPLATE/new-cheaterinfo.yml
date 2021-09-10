@@ -1,0 +1,49 @@
+name: New Cheater Info
+description: You have some new info about the cheater in the list? Feel free to inform us.
+title: "[NewCheaterInfo]: <cheatername>"
+labels: 
+  - contribution
+  - info
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this info report!
+        
+        Please write down following information in order to analize it.
+  - type: input
+    id: cheatername
+    attributes:
+      label: Cheater Name
+      description: How Cheater shows himself in the game. (If this bot has no name or `void` name enter `[void]`)
+      placeholder: ex. Exterminator889
+    validations:
+      required: true
+  - type: textarea
+    id: update
+    attributes:
+      label: Update info
+      description: Enter all things that is wrong on urs side or needs to be added or changed.
+      value: |
+        1.
+        2.
+        3.
+        ...
+      render: markdown,
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Update Reason
+      description: | 
+        Please write down all evidence of `Update info` section in order to prove that your update information is right
+      value: |
+        1.
+        2.
+        3.
+        ...
+      render: markdown
+    validations:
+      required: true
+

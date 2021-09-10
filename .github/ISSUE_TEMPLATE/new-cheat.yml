@@ -1,0 +1,60 @@
+name: New Cheat
+description: You founded new cheat which is not in the list? Feel free to inform everybody.
+title: "[NewCheat]: <cheatname>"
+labels: new cheat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this info report!
+        
+        Please write down following information in order to analize it.
+  - type: input
+    id: cheatname
+    attributes:
+      label: Cheat Name
+      description: What is the name of the cheat.
+      placeholder: ex. LMAOBOX
+    validations:
+      required: true
+  - type: dropdown
+    id: gamemode
+    attributes:
+      label: Gamemode
+      description: In witch gamemode you found it?
+      multiple: true
+      options:
+        - Offence/Defence
+        - Capture the flag
+        - Control points
+        - King of the hill
+        - Payload
+        - Payload race
+        - Others (Medieval, invation, etc.)
+        - MANN Power
+        - Pass time
+        - MANN vs Machine
+    validations:
+      required: true
+  - type: input
+    id: map
+    attributes:
+      label: Map
+      description: On which map you stumble the cheat?
+      placeholder: ex. ctf_2fort
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Cheat behavior
+      description: What was odd from the standard people behaviour? Name all things that you noticed, so we can analize it.
+      value: |
+        1.
+        2.
+        3.
+        ...
+      render: markdown,
+    validations:
+      required: true
+
