@@ -2,7 +2,13 @@
 
 **Birth date:** <span style="color:firebrick">**Unknown**</span>
 
-**Appearence (map):** *Most* of ***casual*** maps
+**Appearence (mode):**
+ - MANN Power
+ ...
+
+**Appearence (map):**
+ - Harvest
+ ...
 
 **Behavior:** Joins to server, ruining the gameplay. Using aimbot. Uses stock loadout.
 
