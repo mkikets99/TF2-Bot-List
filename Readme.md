@@ -31,7 +31,7 @@ If you find a ***new bot***, fell free to report it in issues to update the list
 ## Cheating software
 This list only for informational purpose. No links will be provided. By using those software you can probably be listed in next list.
 
-| Cheat № | Cheat name | Cheat posibilities | How to find out? |
+| Cheat № | Cheat name | Cheat posibilities | <span title="Behaviour of the bot">How to find out?</span> |
 |-|-|-|-|
 Upcoming...
 
