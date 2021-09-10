@@ -7,7 +7,8 @@ If you find a ***new bot***, fell free to report it in issues to update the list
 
 [TOC]
 
-## Types of statuses
+## Bots
+### Types of statuses
 | Status name | Explanation |
 |--------|--------|
 | <span style="color:purple">**Unknown**</span> | **Bot** is ***new*** and there is known a little or nothing at all |
@@ -17,7 +18,7 @@ If you find a ***new bot***, fell free to report it in issues to update the list
 | <span style="color:firebrick">**Dangerous**</span> | **Bot** is ***very agressive*** an valve servers. *Do not come close* |
 | <span style="color:gold">**Solvable**</span> or <span style="color:goldenrod">"**In process**"</span> | There is ***Possible solution*** of solving the bot problem in game. *Try out the set of solution* and inform the results. |
 
-## Bot list
+### Bot list
 
 | Bot # | Bot name | Behavior | Status | More |
 |:-:|:-:|-|:-:|:-:| 
@@ -31,6 +32,7 @@ If you find a ***new bot***, fell free to report it in issues to update the list
 ## Cheating software
 This list only for informational purpose. No links will be provided. By using those software you can probably be listed in next list.
 
+### Software List
 | Cheat № | Cheat name | Cheat posibilities | <span title="Behaviour of the cheat">How to find out?</span> |
 |-|-|-|-|
 
@@ -40,6 +42,7 @@ Upcoming...
 ## Cheaters
 This list only for informational purpose. Here lies all cheaters founded using cheating software.
 
+###Cheaters list
 | Cheater № | User name (Steam name) | Steam Profile link | Used cheats | Status | More |
 |-|-|-|-|-|-|
 
