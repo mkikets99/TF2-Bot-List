@@ -5,9 +5,18 @@ If you encountered a bot, maybe there is a solution, or bot founded a new way to
 
 If you find a ***new bot***, fell free to report it in issues to update the list.
 
-[TOC]
+##### Table of Contents
+* [Bots](#bots)
+    + [Types of statuses](#types-of-statuses)
+    + [Bot list](#bot-list)
+* [Cheating software](#cheating-software)
+    + [Software List](#software-list)
+* [Cheaters](#cheaters)
+    + [Cheaters list](#cheaters-list)
+
 
 ## Bots
+
 ### Types of statuses
 | Status name | Explanation |
 |--------|--------|
@@ -38,11 +47,9 @@ This list only for informational purpose. No links will be provided. By using th
 
 Upcoming...
 
-
 ## Cheaters
 This list only for informational purpose. Here lies all cheaters founded using cheating software.
-
-###Cheaters list
+### Cheaters list
 | Cheater № | User name (Steam name) | Steam Profile link | Used cheats | Status | More |
 |-|-|-|-|-|-|
 
