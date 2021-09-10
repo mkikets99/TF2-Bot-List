@@ -33,6 +33,17 @@ body:
         - Others (Medieval, invation, etc.)
         - MANN Power
         - Pass time
+        - MANN vs Machine
+    validations:
+      required: true
+  - type: input
+    id: map
+    attributes:
+      label: Map
+      description: on which map you stumble the bot?
+      placeholder: ex. ctf_2fort
+    validations:
+      required: true
   - type: textarea
     id: behavior
     attributes:
