@@ -11,6 +11,7 @@
 **Appearence (map):**
  - Harvest (koth_harvest)
  - 2Fort Invasion (ctf_2fort_invasion)
+ - Well (ctf_well)
  ...
 
 **Behavior:** Joins to server, ruining the gameplay. Using aimbot. Uses stock loadout.
