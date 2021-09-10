@@ -26,21 +26,23 @@ If you find a ***new bot***, fell free to report it in issues to update the list
 | #3 | DoesHotter | Joins to server with a huge amount of copies. It even can join on enemy side while on yours. | <span style="color:lightcoral">**Active**</span> | [DoesHotter.md](BotList/DoesHotter.md) |
 | #4 | OMEGATRONIC | Joins to server and kills players with aimbot. Mostly comes with `voice chat` spam. Picks sniper or heavy. | <span style="color:lightcoral">**Active**</span> | [OMEGATRONIC.md](BotList/OMEGATRONIC.md) |
 | #5 | *Youtube-Link Bots* | Joins to server and kills players with aimbot. Picks heavy. Name have youtube link and mostly everyone have `TV-test` or `TV-issue` icon | <span style="color:lightcoral">**Active**</span> | [Youtube-Link.Bots.md](BotList/Youtube-Link.Bots.md) |
-| #6 | zsoldmedard | Joins to server with a swarm of `helpers`. Aimbot. | <span style="color:gray">**Founded**</span> | [zsolmedard.md](BotList/zsolmedard.md) |
+| #6 | zsolmedard | Joins to server with a swarm of `helpers`. Aimbot. | <span style="color:gray">**Founded**</span> | [zsolmedard.md](BotList/zsolmedard.md) |
 
 ## Cheating software
 This list only for informational purpose. No links will be provided. By using those software you can probably be listed in next list.
 
-| Cheat № | Cheat name | Cheat posibilities | <span title="Behaviour of the bot">How to find out?</span> |
+| Cheat № | Cheat name | Cheat posibilities | <span title="Behaviour of the cheat">How to find out?</span> |
 |-|-|-|-|
+
 Upcoming...
 
 
 ## Cheaters
 This list only for informational purpose. Here lies all cheaters founded using cheating software.
 
-| Cheater № | User name (Steam name) | Steam Profile link | Status | More |
-|-|-|-|-|-|
+| Cheater № | User name (Steam name) | Steam Profile link | Used cheats | Status | More |
+|-|-|-|-|-|-|
+
 Upcoming...
 
 If you want to *contribute*, contact me on [Telegram](https://t.me/mkikets) or here by creating [Contributing] issue
