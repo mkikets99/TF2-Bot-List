@@ -2,7 +2,13 @@
 
 **Birth date:** <span style="color:firebrick">**Unknown**</span>
 
-**Appearence (map):** *Most* of ***casual*** maps
+**Appearence (mode):**
+ - Other (Medieval, invation, etc.)
+ ...
+
+**Appearence (map):**
+ - DeGroot Keep (Medieval) (cp_degrootkeep)
+ ...
 
 **Behavior:** Joins to server with the same name as a player. Right at join tries to send a kick vote. During gameplay using: <ul><li>Aimbot</li><li>Lagger</li><li>Spy-reveal</li><li>(optional) [Noise Maker - TF Birthday](https://wiki.teamfortress.com/wiki/Noise_Maker#Team_Fortress_Birthday)</li><li>Same loadout as player (except sniper rifle)</li></ul>
 
