@@ -5,7 +5,7 @@ If you encountered a bot, maybe there is a solution, or bot founded a new way to
 
 If you find a ***new bot***, fell free to report it in issues to update the list.
 
-##### Table of Contents
+#### Table of Contents
 * [Bots](#bots)
     + [Types of statuses](#types-of-statuses)
     + [Bot list](#bot-list)
