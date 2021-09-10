@@ -13,7 +13,7 @@ body:
     id: cheatername
     attributes:
       label: Cheater Name
-      description: How Cheater shows himself in the game. (If this bot has no name or `void` name enter `[void]`)
+      description: How Cheater shows himself in the game. (If this cheater has no name or `void` name enter `[void]`)
       placeholder: ex. Exterminator889
     validations:
       required: true
