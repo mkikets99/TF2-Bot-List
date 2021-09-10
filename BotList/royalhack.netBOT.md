@@ -4,10 +4,13 @@
 
 **Appearence (mode):**
  - MANN Power
+ - Capture the flag
+ - King of the hill
  ...
 
 **Appearence (map):**
- - Harvest
+ - Harvest (koth_harvest)
+ - 2Fort Invasion (ctf_2fort_invasion)
  ...
 
 **Behavior:** Joins to server, ruining the gameplay. Using aimbot. Uses stock loadout.
@@ -16,4 +19,4 @@
 
 **Posible solution:** Most of the time bot gives up after the first kick. Maximum recorded `retry`-comand call is 1.
 
-**Posible problems:** <span style="color:firebrick">**Unknown**</span>
+**Posible problems:** If bots connected in swarms it is most probably, that you cannot even kick them...
