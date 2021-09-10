@@ -5,7 +5,9 @@ If you encountered a bot, maybe there is a solution, or bot founded a new way to
 
 If you find a ***new bot***, fell free to report it in issues to update the list.
 
-##### Types of statuses
+[TOC]
+
+## Types of statuses
 | Status name | Explanation |
 |--------|--------|
 | <span style="color:purple">**Unknown**</span> | **Bot** is ***new*** and there is known a little or nothing at all |
@@ -15,7 +17,7 @@ If you find a ***new bot***, fell free to report it in issues to update the list
 | <span style="color:firebrick">**Dangerous**</span> | **Bot** is ***very agressive*** an valve servers. *Do not come close* |
 | <span style="color:gold">**Solvable**</span> or <span style="color:goldenrod">"**In process**"</span> | There is ***Possible solution*** of solving the bot problem in game. *Try out the set of solution* and inform the results. |
 
-### Bot list
+## Bot list
 
 | Bot # | Bot name | Behavior | Status | More |
 |:-:|:-:|-|:-:|:-:| 
@@ -25,5 +27,20 @@ If you find a ***new bot***, fell free to report it in issues to update the list
 | #4 | OMEGATRONIC | Joins to server and kills players with aimbot. Mostly comes with `voice chat` spam. Picks sniper or heavy. | <span style="color:lightcoral">**Active**</span> | [OMEGATRONIC.md](BotList/OMEGATRONIC.md) |
 | #5 | *Youtube-Link Bots* | Joins to server and kills players with aimbot. Picks heavy. Name have youtube link and mostly everyone have `TV-test` or `TV-issue` icon | <span style="color:lightcoral">**Active**</span> | [Youtube-Link.Bots.md](BotList/Youtube-Link.Bots.md) |
 | #6 | zsoldmedard | Joins to server with a swarm of `helpers`. Aimbot. | <span style="color:gray">**Founded**</span> | [zsolmedard.md](BotList/zsolmedard.md) |
+
+## Cheating software
+This list only for informational purpose. No links will be provided. By using those software you can probably be listed in next list.
+
+| Cheat № | Cheat name | Cheat posibilities | How to find out? |
+|-|-|-|-|
+Upcoming...
+
+
+## Cheaters
+This list only for informational purpose. Here lies all cheaters founded using cheating software.
+
+| Cheater № | User name (Steam name) | Steam Profile link | Status | More |
+|-|-|-|-|-|
+Upcoming...
 
 If you want to *contribute*, contact me on [Telegram](https://t.me/mkikets) or here by creating [Contributing] issue
