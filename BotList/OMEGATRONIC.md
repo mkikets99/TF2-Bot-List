@@ -2,7 +2,14 @@
 
 **Birth date:** <span style="color:firebrick">**Unknown**</span>
 
-**Appearence (map):** *Most* of ***casual*** maps
+**Appearence (mode):**
+ - Attack/Defence
+ ...
+
+**Appearence (map):**
+ - Mossrock (cp_mossrock)
+ ...
+
 
 **Behavior:** Joins to server and kills players with aimbot. Mostly comes with `voice chat` spam. Picks between sniper or heavy.
 

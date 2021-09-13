@@ -20,8 +20,8 @@ If you find a ***new bot***, fell free to report it in issues to update the list
 ### Types of statuses
 | Status name | Explanation |
 |--------|--------|
-| <span style="color:purple">**Unknown**</span> | **Bot** is ***new*** and there is known a little or nothing at all |
-| <span style="color:gray">**Founded**</span> | We know some information about **bot**, but we need *more* info |
+| ![Unknown](Images/Unknown.svg) | **Bot** is ***new*** and there is known a little or nothing at all |
+| ![Founded](Images/Founded.png)<span style="color:gray">**Founded**</span> | We know some information about **bot**, but we need *more* info |
 | <span style="color:lightcoral">**Active**</span> | **Bot** is ***active*** and founded commonly on valve servers |
 | <span style="color:green">**Disabled**</span> or <span style="color:lightgreen">**Solved**</span> | **Bot** is fully ***disabled*** and *do not appear* on servers |
 | <span style="color:firebrick">**Dangerous**</span> | **Bot** is ***very agressive*** an valve servers. *Do not come close* |
@@ -52,6 +52,7 @@ This list only for informational purpose. Here lies all cheaters founded using c
 ### Cheaters list
 | Cheater № | User name (Steam name) | Steam Profile link | Used cheats | Status | More |
 |-|-|-|-|-|-|
+| #1 | Clomby | https://steamcommunity.com/id/childporno/ | **Unknown** | Founded | [Clomby](Cheaters/Clomby.md) |
 
 Upcoming...
 
