@@ -52,7 +52,7 @@ This list only for informational purpose. Here lies all cheaters founded using c
 ### Cheaters list
 | Cheater № | User name (Steam name) | Steam Profile link | Used cheats | Status | More |
 |-|-|-|-|-|-|
-| #1 | Clomby | https://steamcommunity.com/id/childporno/ | **Unknown** | Founded | [Clomby](Cheaters/Clomby.md) |
+| #1 | Clomby | [Steam profile](https://steamcommunity.com/id/childporno/) | **Unknown** | Founded | [Clomby](Cheaters/Clomby.md) |
 
 Upcoming...
 
