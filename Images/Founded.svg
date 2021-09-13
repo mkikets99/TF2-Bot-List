@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="28.927757mm"
+   width="26.237827mm"
    height="4.3849144mm"
-   viewBox="0 0 28.927757 4.3849144"
+   viewBox="0 0 26.237827 4.3849144"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="Unknown.svg"
+   sodipodi:docname="Founded.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,9 +27,9 @@
      inkscape:cx="364.61893"
      inkscape:cy="90.654797"
      inkscape:window-width="1596"
-     inkscape:window-height="838"
-     inkscape:window-x="1600"
-     inkscape:window-y="36"
+     inkscape:window-height="814"
+     inkscape:window-x="2414"
+     inkscape:window-y="241"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -38,7 +38,7 @@
      inkscape:label="Шар 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-8.5786029,-11.231738)">
+     transform="translate(-8.6364805,-11.231738)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -47,8 +47,8 @@
        id="text2435"><tspan
          sodipodi:role="line"
          id="tspan2433"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#800080;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#666666;stroke-width:0.264583"
          x="8.1128263"
-         y="15.520189">Unknown</tspan></text>
+         y="15.520189">Founded</tspan></text>
   </g>
 </svg>
